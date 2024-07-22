@@ -1,0 +1,18 @@
+email:
+    mail_user: csu71828@sina.cn
+    mail_pwd: 2f2a64f73676b41c
+    mail_sender: csu71828@sina.cn
+    port: 25
+    host: smtp.sina.cn
+register:
+    captcha_expire_time:
+identification:
+    max_spectrum: 1000
+    max_files: 1000
+    max_file_size: 1024*1024*3
+    plot:
+        dpi: 900
+        width: 2
+        length: 1
+
+
